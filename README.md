@@ -5,7 +5,7 @@
 _特別說明：參考表中的中文不是翻譯，而是以我參考精訊出版的創世紀三及軟體世界出版的創世紀一二三典藏版說明書，以及各大攻略網站最後自己能快速理解的語句編成，鍵盤指令也是以應用區域的方式排列。_
 _如有超譯或會錯意的地方請指教。_
 <p align = "center">
-<img src="https://github.com/lightgreentw/U3_RefCard/blob/master/ReadmePIC_01.png" width=70%>
+<img src="https://github.com/lightgreentw/U3_RefCard/blob/master/ReadmePIC_01.png" width=80%>
 </p>
 
 # 安裝及執行
@@ -25,6 +25,9 @@ _如有超譯或會錯意的地方請指教。_
 |Shift + 雙擊滑鼠右鍵              |   還原圖片狀態  |
 
 2. 工作列通知區圖示
+
+    在圖示上按下滑鼠右鍵會談跳出選單，分隔線以上是依照設定讀取的參考表圖片名稱，單擊滑鼠左鍵可以開啟或關閉參考表。
+    分隔線以下About是關於視窗，及Exit程式關閉選單。
 <p align = "left">
 <img src="https://github.com/lightgreentw/U3_RefCard/blob/master/ReadmePIC_02.png" width=40%>
 </p>
